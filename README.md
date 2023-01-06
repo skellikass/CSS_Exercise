@@ -31,7 +31,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Create a **ruleset** in your `index.css` file that selects all elements with the `main` tag name
 2. Create a **declaration** in your new ruleset that changes the **max width** of the `main` elements to **600px**
-3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` elements to **24px**, to center the `main` elements between the left and right edges of the page (or their containing element).
+3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` elements to **24px**, to center the `main` elements between the top and bottom edges of the page (or their containing element).
 4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `main` elements to **auto**, to center the `main` elements between the left and right edges of the page (or their containing element).
 
 ## Exercise 4
@@ -39,7 +39,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
 1. Create a **ruleset** in your `index.css` file that selects all elements with the `section` tag name
-2. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `section` elements to **24px**, to center the `section` elements between the left and right edges of the page (or their containing element).
+2. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `section` elements to **24px**, to center the `section` elements between the top and bottom edges of the page (or their containing element).
 3. Create a **declaration** in your new ruleset that changes the **padding left**, **padding right**, **padding top** and **padding bottom** of the `section` elements to **16px**, to give the `section` elements space between their content and border.
 
 ## Exercise 5
